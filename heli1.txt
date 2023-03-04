@@ -1,0 +1,20 @@
+The goal is for the blade to defy gravity and
+stay exactly where it is when we remove the stand. If we do
+nothing before removing the stand, the blade will simply fall
+to the ground. Can we exert a force (a push or pull) opposite
+gravity that equals the 100 lb. weight of the blade? Yes, for
+example, electromagnetic force could be used. In helicopters,
+however, we use aerodynamic force to oppose weight and
+to maneuver.
+Every object in the atmosphere is surrounded by a gas that
+exerts a static force of 2,116 lb per square foot (a force
+times a unit area, called pressure) at sea level. However, that
+pressure is exerted equally all over the blade (top and bottom)
+and therefore does not create any useful force on the blade.
+We need only create a difference of a single pound of static
+pressure differential per square foot of blade surface to have a
+force equal to the blade’s weight (100 lb of upward pressure
+opposite 100 lb downward weight).
+Total pressure consists of static pressure and, if the air is
+moving, dynamic pressure (a pressure in the direction of the
+air movement).

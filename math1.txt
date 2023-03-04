@@ -1,0 +1,22 @@
+The solutions to a quadratic equation of the form ax2 + bx + c = 0, where a\ne 0 are given by the formula:
+
+x=\frac{\text{−}b±\sqrt{{b}^{2}-4ac}}{2a}
+
+To use the Quadratic Formula, we substitute the values of a, b, and c from the standard form into the expression on the right side of the formula. Then we simplify the expression. The result is the pair of solutions to the quadratic equation.
+
+Notice the formula is an equation. Make sure you use both sides of the equation.
+
+Solve by using the Quadratic Formula: 3{y}^{2}-5y+2=0.
+
+y=1,y=\frac{2}{3}
+
+Solve by using the Quadratic Formula: 4{z}^{2}+2z-6=0.
+
+z=1,z=-\frac{3}{2}
+
+Solve a quadratic equation using the quadratic formula.
+Write the quadratic equation in standard form, ax2 + bx + c = 0. Identify the values of a, b, and c.
+Write the Quadratic Formula. Then substitute in the values of a, b, and c.
+Simplify.
+Check the solutions.
+If you say the formula as you write it in each problem, you’ll have it memorized in no time! And remember, the Quadratic Formula is an EQUATION. Be sure you start with “x =”.
